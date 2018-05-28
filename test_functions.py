@@ -7,7 +7,7 @@ import gmail.py
 #     print(mails)
 
 
-# my_message = create_message('benokankafkas@gmail.com','benokankafkas@gmail.com','merhaba','selam')
+# my_message = create_message('sendersemail@gmail.com','receivers@gmail.com','merhaba','selam')
 #
 # created_draft = create_draft(service,'me',my_message)
 # print(created_draft)
